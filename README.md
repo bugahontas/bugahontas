@@ -2,7 +2,7 @@
  
 ### <🌹> About me </🌹>
 
-My name is Helena and I'm a brazilian **front-end developer**. I'm here on GitHub to:
+My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
 - Share my codes;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;

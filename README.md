@@ -8,7 +8,7 @@ My name is Helena and I'm a brazilian **front-end developer**. I'm here on GitHu
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
-You're welcome! Feel free to visit my repositories. Doubts or suggestions, please open an issue and let's talk!
+You're welcome! Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
 

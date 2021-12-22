@@ -1,12 +1,12 @@
 # Hi there! 👋 😃
+ 
+### <🌹> About me </🌹>
 
-### About me
-
-<😊> My name is Helena and I'm a brazilian **beginner front-end developer**. </😊> 
-
-<🐞> I also have a degree in Biology, so any code is like a garden for me: with many _bugs_! </🐞> 
-
-<💡> Remember: bugs are not "monsters" as we can learn a lot with them! </💡>
+My name is Helena and I'm a brazilian **front-end developer**. I'm here on GitHub to:
+- Share my codes;
+- Learn more about front-end technologies;
+- Contribute to third-party projects;
+- Get inspiration and new ideas!
 
 ---
 

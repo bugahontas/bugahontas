@@ -21,8 +21,3 @@ You're welcome! Feel free to visit [my repositories](https://github.com/bugahont
 ### <📫> How to reach me </📫>
 
 [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
-
-<!---
-bugahontas/bugahontas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

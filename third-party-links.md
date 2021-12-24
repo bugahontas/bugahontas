@@ -1,4 +1,4 @@
-Third-party ideas used in this repo:
+### Third-party ideas used in this repo:
 
 - Emojis from **OpenMoji**: https://openmoji.org/
 - Badges from:

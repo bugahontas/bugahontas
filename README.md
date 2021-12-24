@@ -1,5 +1,7 @@
 # Hi there! 👋 😃
  
+*A README made with **Markdown**, [great ideas]() and ♥!*
+
 ### <🌹> About me </🌹>
 
 My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
@@ -21,14 +23,14 @@ Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositor
 ### <📊> GitHub stats </📊>
 
 
-[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas/github-readme-stats) 
+[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
 | ----------- | ------------ |
 
 ---
 
 ### <📫> How to reach me </📫>
 
-[![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
+[![Github badge](https://img.shields.io/badge/bugahontas-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugahontas) [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
 
 ---
 

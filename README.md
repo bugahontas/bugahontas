@@ -8,7 +8,7 @@ My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHu
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
-You're welcome! Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
+Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
 
@@ -29,3 +29,7 @@ You're welcome! Feel free to visit [my repositories](https://github.com/bugahont
 ### <📫> How to reach me </📫>
 
 [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)

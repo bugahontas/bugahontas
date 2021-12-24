@@ -18,6 +18,15 @@ You're welcome! Feel free to visit [my repositories](https://github.com/bugahont
 
 ---
 
+### <📊> GitHub stats </📊>
+
+
+[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas/github-readme-stats) 
+| ----------- | ------------ |
+
+
+---
+
 ### <📫> How to reach me </📫>
 
 [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
